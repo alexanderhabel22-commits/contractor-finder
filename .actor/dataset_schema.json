@@ -1,0 +1,36 @@
+{
+    "actorSpecification": 1,
+    "fields": {},
+    "views": {
+        "overview": {
+            "title": "Companies",
+            "transformation": {
+                "fields": ["company_name", "company_types", "matched_trades", "phone", "website", "city", "state", "zip", "certifications", "distance_miles"]
+            },
+            "display": {
+                "component": "table",
+                "properties": {
+                    "company_name": { "label": "Company", "format": "text" },
+                    "company_types": { "label": "Type", "format": "array" },
+                    "matched_trades": { "label": "Matched trades", "format": "array" },
+                    "phone": { "label": "Phone", "format": "text" },
+                    "website": { "label": "Website", "format": "link" },
+                    "city": { "label": "City", "format": "text" },
+                    "state": { "label": "State", "format": "text" },
+                    "zip": { "label": "ZIP", "format": "text" },
+                    "certifications": { "label": "Certifications", "format": "array" },
+                    "distance_miles": { "label": "Miles away", "format": "number" }
+                }
+            }
+        },
+        "full": {
+            "title": "Full details",
+            "transformation": {
+                "fields": ["company_name", "company_types", "matched_trades", "trades", "trade_details", "phone", "email", "website", "street", "city", "state", "zip", "latitude", "longitude", "distance_miles", "service_areas", "construction_sectors", "certifications", "company_size", "avg_contract_size", "bonding_per_contract", "bonding_aggregate", "year_founded", "naics_primary", "uei", "cage_code", "description", "sources", "scraped_at"]
+            },
+            "display": {
+                "component": "table"
+            }
+        }
+    }
+}

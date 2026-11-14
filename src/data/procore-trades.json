@@ -1,0 +1,1362 @@
+{
+ "abatement_and_remediation": {
+  "label": "Abatement and Remediation",
+  "specialties": {
+   "asbestos_abatement_and_remediation": "Asbestos Abatement and Remediation",
+   "biohazard_abatement_and_remediation": "Biohazard Abatement and Remediation",
+   "contaminated_soils_abatement_and_remediation": "Contaminated Soils Abatement and Remediation",
+   "hazardous_waste_drum_handling": "Hazardous Waste Drum Handling",
+   "lead_abatement_and_remediation": "Lead Abatement and Remediation",
+   "polychlorinate_biphenyl_abatement_and_remediation": "Polychlorinate Biphenyl Abatement and Remediation",
+   "sinkhole_abatement_and_remediation": "Sinkhole Abatement and Remediation",
+   "underground_storage_tank_removal": "Underground Storage Tank Removal",
+   "water_abatement_and_remediation": "Water Abatement and Remediation"
+  },
+  "urlKey": "abatement-and-remediation"
+ },
+ "access_and_barriers": {
+  "label": "Access and Barriers",
+  "specialties": {
+   "temporary_air_barriers": "Temporary Air Barriers",
+   "temporary_barricades": "Temporary Barricades",
+   "temporary_dust_barriers": "Temporary Dust Barriers",
+   "temporary_fencing": "Temporary Fencing",
+   "temporary_noise_barriers": "Temporary Noise Barriers",
+   "temporary_protective_walkways": "Temporary Protective Walkways",
+   "temporary_security_barriers": "Temporary Security Barriers",
+   "temporary_security_enclosures": "Temporary Security Enclosures",
+   "temporary_tree_and_plant_protection": "Temporary Tree and Plant Protection"
+  },
+  "urlKey": "access-and-barriers"
+ },
+ "air_barriers": {
+  "label": "Air Barriers",
+  "specialties": {
+   "board_product_air_barriers": "Board Product Air Barriers",
+   "fluid_applied_membrane_air_barriers": "Fluid Applied Membrane Air Barriers",
+   "modified_bituminous_sheet_air_barriers": "Modified Bituminous Sheet Air Barriers",
+   "plastic_sheet_air_barriers": "Plastic Sheet Air Barriers",
+   "sheet_metal_membrane_air_barriers": "Sheet Metal Membrane Air Barriers",
+   "sprayed_foam_air_barrier": "Sprayed Foam Air Barrier"
+  },
+  "urlKey": "air-barriers"
+ },
+ "appraisers_and_valuation_services": {
+  "label": "Appraisers and Valuation Services",
+  "specialties": {},
+  "urlKey": "appraisers-and-valuation-services"
+ },
+ "assessments_and_studies": {
+  "label": "Assessments and Studies",
+  "specialties": {
+   "environmental_assessment": "Environmental Assessment",
+   "existing_conditions_assessment": "Existing Conditions Assessment",
+   "existing_material_assessment": "Existing Material Assessment",
+   "geophysical_investigations": "Geophysical Investigations",
+   "geotechnical_investigations": "Geotechnical Investigations",
+   "hazardous_material_assessment": "Hazardous Material Assessment"
+  },
+  "urlKey": "assessments-and-studies"
+ },
+ "bim_and_model_making_services": {
+  "label": "Bim and Model Making Services",
+  "specialties": {
+   "3d_capture_scanning": "3d Capture Scanning"
+  },
+  "urlKey": "bim-and-model-making-services"
+ },
+ "bridges": {
+  "label": "Bridges",
+  "specialties": {
+   "bridge_machinery": "Bridge Machinery",
+   "bridge_specialties": "Bridge Specialties"
+  },
+  "urlKey": "bridges"
+ },
+ "ceilings": {
+  "label": "Ceilings",
+  "specialties": {
+   "acoustic_ceilings": "Acoustic Ceilings",
+   "integrated_ceiling_assemblies": "Integrated Ceiling Assemblies",
+   "special_function_ceilings": "Special Function Ceilings",
+   "specialty_ceilings": "Specialty Ceilings",
+   "textured_ceilings": "Textured Ceilings"
+  },
+  "urlKey": "ceilings"
+ },
+ "cleaning_services": {
+  "label": "Cleaning Services",
+  "specialties": {
+   "final_cleaning": "Final Cleaning",
+   "progress_cleaning": "Progress Cleaning"
+  },
+  "urlKey": "cleaning-services"
+ },
+ "coastal_construction": {
+  "label": "Coastal Construction",
+  "specialties": {
+   "artificial_reefs": "Artificial Reefs",
+   "shoreline_protection": "Shoreline Protection"
+  },
+  "urlKey": "coastal-construction"
+ },
+ "commissioning": {
+  "label": "Commissioning",
+  "specialties": {
+   "facility_shell_commissioning": "Facility Shell Commissioning",
+   "facility_substructure_commissioning": "Facility Substructure Commissioning",
+   "general_commissioning_requirements": "General Commissioning Requirements",
+   "integrated_system_commissioning": "Integrated System Commissioning",
+   "interiors_commissioning": "Interiors Commissioning"
+  },
+  "urlKey": "commissioning"
+ },
+ "communications": {
+  "label": "Communications",
+  "specialties": {
+   "audio_video_communications": "Audio Video Communications",
+   "communications_utilities_distribution": "Communications Utilities Distribution",
+   "data_and_voice_communications": "Data and Voice Communications",
+   "distributed_communications_and_monitoring_systems": "Distributed Communications and Monitoring Systems"
+  },
+  "urlKey": "communications"
+ },
+ "concrete": {
+  "label": "Concrete",
+  "specialties": {
+   "cast_in_place_concrete": "Cast In Place Concrete",
+   "concrete_accessories": "Concrete Accessories",
+   "concrete_finishing": "Concrete Finishing",
+   "concrete_supply_and_delivery": "Concrete Supply and Delivery",
+   "cutting_and_boring": "Cutting and Boring",
+   "forming": "Forming",
+   "grouting": "Grouting",
+   "pre_cast_concrete": "Pre Cast Concrete"
+  },
+  "urlKey": "concrete"
+ },
+ "conservation_services": {
+  "label": "Conservation Services",
+  "specialties": {
+   "cleaning_and_maintenance_of_existing_period_conditions": "Cleaning and Maintenance Of Existing Period Conditions",
+   "conservation_treatment_for_period_architectural_woodwork": "Conservation Treatment For Period Architectural Woodwork",
+   "conservation_treatment_for_period_concrete": "Conservation Treatment For Period Concrete",
+   "conservation_treatment_for_period_masonry": "Conservation Treatment For Period Masonry",
+   "conservation_treatment_for_period_metals": "Conservation Treatment For Period Metals",
+   "conservation_treatment_for_period_openings": "Conservation Treatment For Period Openings",
+   "conservation_treatment_for_period_roofing": "Conservation Treatment For Period Roofing",
+   "conservation_treatment_of_period_finishes": "Conservation Treatment Of Period Finishes"
+  },
+  "urlKey": "conservation-services"
+ },
+ "construction_aides": {
+  "label": "Construction Aides",
+  "specialties": {
+   "temporary_cranes": "Temporary Cranes",
+   "temporary_elevators": "Temporary Elevators",
+   "temporary_hoists": "Temporary Hoists",
+   "temporary_scaffolding_and_platforms": "Temporary Scaffolding and Platforms",
+   "temporary_swing_staging": "Temporary Swing Staging"
+  },
+  "urlKey": "construction-aides"
+ },
+ "construction_bonds_and_insurance": {
+  "label": "Construction Bonds and Insurance",
+  "specialties": {
+   "construction_insurance": "Construction Insurance",
+   "constructon_bonds": "Constructon Bonds"
+  },
+  "urlKey": "construction-bonds-and-insurance"
+ },
+ "construction_software_solutions": {
+  "label": "Construction Software Solutions",
+  "specialties": {
+   "accounting": "Accounting",
+   "building_information_modeling_bim": "Building Information Modeling Bim",
+   "cloud_storage_collaboration": "Cloud Storage Collaboration",
+   "customer_relationship_management_crm": "Customer Relationship Management Crm",
+   "estimating": "Estimating",
+   "job_site_data_collection_and_reporting": "Job Site Data Collection and Reporting",
+   "preconstruction_bidding": "Preconstruction Bidding",
+   "project_management": "Project Management",
+   "web_conferencing": "Web Conferencing"
+  },
+  "urlKey": "construction-software-solutions"
+ },
+ "construction_waste_management_and_disposal": {
+  "label": "Construction Waste Management and Disposal",
+  "specialties": {
+   "recycling_and_salvage": "Recycling and Salvage"
+  },
+  "urlKey": "construction-waste-management-and-disposal"
+ },
+ "countertops": {
+  "label": "Countertops",
+  "specialties": {
+   "concrete_countertops": "Concrete Countertops",
+   "glass_countertops": "Glass Countertops",
+   "laboratory_countertops": "Laboratory Countertops",
+   "metal_countertops": "Metal Countertops",
+   "paper_composite_countertops": "Paper Composite Countertops",
+   "plastic_countertops": "Plastic Countertops",
+   "simulated_stone_countertops": "Simulated Stone Countertops",
+   "stone_countertops": "Stone Countertops",
+   "wood_countertops": "Wood Countertops"
+  },
+  "urlKey": "countertops"
+ },
+ "curbs_gutters_sidewalks_and_driveways": {
+  "label": "Curbs Gutters Sidewalks and Driveways",
+  "specialties": {
+   "curbs_and_gutters": "Curbs and Gutters",
+   "driveways": "Driveways",
+   "sidewalks": "Sidewalks"
+  },
+  "urlKey": "curbs-gutters-sidewalks-and-driveways"
+ },
+ "curtain_wall_and_glazed_assemblies": {
+  "label": "Curtain Wall and Glazed Assemblies",
+  "specialties": {
+   "glazed_aluminum_curtain_walls": "Glazed Aluminum Curtain Walls",
+   "glazed_bronze_curtain_walls": "Glazed Bronze Curtain Walls",
+   "glazed_composite_curtain_wall": "Glazed Composite Curtain Wall",
+   "glazed_stainless_steel_curtain_walls": "Glazed Stainless Steel Curtain Walls",
+   "glazed_steel_curtain_walls": "Glazed Steel Curtain Walls",
+   "glazed_timber_curtain_walls": "Glazed Timber Curtain Walls",
+   "sloped_glazing_assemblies": "Sloped Glazing Assemblies",
+   "structural_glass_curtain_walls": "Structural Glass Curtain Walls",
+   "structural_sealant_glazed_curtain_walls": "Structural Sealant Glazed Curtain Walls"
+  },
+  "urlKey": "curtain-wall-and-glazed-assemblies"
+ },
+ "dam_construction_and_equipment": {
+  "label": "Dam Construction and Equipment",
+  "specialties": {
+   "arch_dams": "Arch Dams",
+   "auxiliary_dam_structures": "Auxiliary Dam Structures",
+   "buttress_dams": "Buttress Dams",
+   "embankment_dams": "Embankment Dams",
+   "gravity_dams": "Gravity Dams"
+  },
+  "urlKey": "dam-construction-and-equipment"
+ },
+ "demolition": {
+  "label": "Demolition",
+  "specialties": {
+   "selective_building_interior_demolition": "Selective Building Interior Demolition",
+   "site_clearing": "Site Clearing",
+   "structure_demolition": "Structure Demolition"
+  },
+  "urlKey": "demolition"
+ },
+ "design_and_engineering": {
+  "label": "Design and Engineering",
+  "specialties": {
+   "architectural_design_and_engineering": "Architectural Design and Engineering",
+   "civil_design_and_engineering": "Civil Design and Engineering",
+   "electrical_design_and_engineering": "Electrical Design and Engineering",
+   "fire_protection_engineering": "Fire Protection Engineering",
+   "interior_design": "Interior Design",
+   "landscape_design_and_engineering": "Landscape Design and Engineering",
+   "mechanical_design_and_engineering": "Mechanical Design and Engineering",
+   "structural_design_and_engineering": "Structural Design and Engineering",
+   "technology_design_and_engineering": "Technology Design and Engineering"
+  },
+  "urlKey": "design-and-engineering"
+ },
+ "door_and_window_hardware": {
+  "label": "Door and Window Hardware",
+  "specialties": {
+   "door_hardware": "Door Hardware",
+   "hardware_accessories": "Hardware Accessories",
+   "special_function_hardware": "Special Function Hardware",
+   "window_hardware": "Window Hardware"
+  },
+  "urlKey": "door-and-window-hardware"
+ },
+ "doors_and_frames": {
+  "label": "Doors and Frames",
+  "specialties": {
+   "composite_doors": "Composite Doors",
+   "metal_doors_and_frames": "Metal Doors and Frames",
+   "plastic_doors_and_frames": "Plastic Doors and Frames",
+   "wood_doors_and_frames": "Wood Doors and Frames"
+  },
+  "urlKey": "doors-and-frames"
+ },
+ "dumbwaiters": {
+  "label": "Dumbwaiters",
+  "specialties": {
+   "electric_dumbwaiters": "Electric Dumbwaiters",
+   "hydraulic_dumbwaiters": "Hydraulic Dumbwaiters",
+   "manual_dumbwaiters": "Manual Dumbwaiters"
+  },
+  "urlKey": "dumbwaiters"
+ },
+ "earthwork": {
+  "label": "Earthwork",
+  "specialties": {
+   "bored_piles": "Bored Piles",
+   "caissons": "Caissons",
+   "embankments": "Embankments",
+   "erosion_and_sedimentation_controls": "Erosion and Sedimentation Controls",
+   "excavation_and_fill": "Excavation and Fill",
+   "grading": "Grading",
+   "mobile_earth_moving_equipment": "Mobile Earth Moving Equipment",
+   "off_gassing_mitigation": "Off Gassing Mitigation",
+   "pile_driving": "Pile Driving",
+   "shoring_and_underpinning": "Shoring and Underpinning",
+   "soil_stabilization": "Soil Stabilization",
+   "tunneling_and_mining": "Tunneling and Mining"
+  },
+  "urlKey": "earthwork"
+ },
+ "electrical": {
+  "label": "Electrical",
+  "specialties": {
+   "electrical_general": "Electrical General",
+   "electrical_power_generation": "Electrical Power Generation",
+   "electrical_utilities_high_and_medium_voltage_distribution": "Electrical Utilities High and Medium Voltage Distribution",
+   "facility_electrical_power_generating_and_storing_equipment": "Facility Electrical Power Generating and Storing Equipment",
+   "instrumentation_and_control_for_electrical_systems": "Instrumentation and Control For Electrical Systems",
+   "traction_power": "Traction Power"
+  },
+  "urlKey": "electrical"
+ },
+ "electronic_life_safety_": {
+  "label": "Electronic Life Safety",
+  "specialties": {
+   "electronic_personal_protection_systems": "Electronic Personal Protection Systems",
+   "emergency_response_systems": "Emergency Response Systems",
+   "fire_detection_and_alarm": "Fire Detection and Alarm",
+   "fuel_oil_detection_and_alarm": "Fuel Oil Detection and Alarm",
+   "gas_detection_and_alarm": "Gas Detection and Alarm",
+   "mass_notification": "Mass Notification",
+   "radiation_detection_and_alarm": "Radiation Detection and Alarm",
+   "refrigerant_detection_and_alarm": "Refrigerant Detection and Alarm",
+   "water_detection_and_alarm": "Water Detection and Alarm"
+  },
+  "urlKey": "electronic-safety"
+ },
+ "electronic_security": {
+  "label": "Electronic Security",
+  "specialties": {
+   "access_control": "Access Control",
+   "security_detection_alarm_and_monitoring": "Security Detection Alarm and Monitoring",
+   "video_surveillance": "Video Surveillance"
+  },
+  "urlKey": "electronic-security"
+ },
+ "elevators": {
+  "label": "Elevators",
+  "specialties": {
+   "custom_elevator_cabs_and_doors": "Custom Elevator Cabs and Doors",
+   "electric_traction_elevators": "Electric Traction Elevators",
+   "elevator_equipment_and_controls": "Elevator Equipment and Controls",
+   "hydraulic_elevators": "Hydraulic Elevators",
+   "limited_use_limited_application_elevators": "Limited Use Limited Application Elevators",
+   "rack_and_pinion_elevators": "Rack and Pinion Elevators"
+  },
+  "urlKey": "elevators"
+ },
+ "entrances_and_storefronts": {
+  "label": "Entrances and Storefronts",
+  "specialties": {
+   "all_glass_entrances_and_storefronts": "All Glass Entrances and Storefronts",
+   "aluminum_framed_entrances_and_storefronts": "Aluminum Framed Entrances and Storefronts",
+   "automatic_entrances_and_storefronts": "Automatic Entrances and Storefronts",
+   "balanced_door_entrances_and_storefronts": "Balanced Door Entrances and Storefronts",
+   "bronze_framed_entrances_and_storefronts": "Bronze Framed Entrances and Storefronts",
+   "intensive_care_unit_critical_care_unit_entrances_and_storefronts": "Intensive Care Unit Critical Care Unit Entrances and Storefronts",
+   "pressure_resistant_entrances_and_storefronts": "Pressure Resistant Entrances and Storefronts",
+   "revolving_door_entrances_and_storefronts": "Revolving Door Entrances and Storefronts",
+   "sliding_entrances_and_storefronts": "Sliding Entrances and Storefronts",
+   "stainless_steel_framed_entrances_and_storefronts": "Stainless Steel Framed Entrances and Storefronts",
+   "steel_framed_entrances_and_storefronts": "Steel Framed Entrances and Storefronts",
+   "timber_framed_entrances_and_storefronts": "Timber Framed Entrances and Storefronts"
+  },
+  "urlKey": "entrances-and-storefronts"
+ },
+ "equipment": {
+  "label": "Equipment",
+  "specialties": {
+   "agricultural_equipment": "Agricultural Equipment",
+   "arts_and_crafts_equipment": "Arts and Crafts Equipment",
+   "bulk_material_processing_equipment": "Bulk Material Processing Equipment",
+   "commercial_equipment": "Commercial Equipment",
+   "container_processing_and_packaging": "Container Processing and Packaging",
+   "detention_equipment": "Detention Equipment",
+   "educational_and_scientific_equipment": "Educational and Scientific Equipment",
+   "entertainment_and_recreation_equipment": "Entertainment and Recreation Equipment",
+   "facility_maintenance_and_operation_equipment": "Facility Maintenance and Operation Equipment",
+   "foodservice_equipment": "Foodservice Equipment",
+   "healthcare_equipment": "Healthcare Equipment",
+   "horticultural_equipment": "Horticultural Equipment",
+   "industry_specific_manufacturing_equipment": "Industry Specific Manufacturing Equipment",
+   "manufacturing_equipment": "Manufacturing Equipment",
+   "material_storage": "Material Storage",
+   "mobile_plant_equipment": "Mobile Plant Equipment",
+   "piece_material_handling_equipment": "Piece Material Handling Equipment",
+   "pollution_and_waste_control_equipment": "Pollution and Waste Control Equipment",
+   "process_gas_and_liquid_handling_purification_and_storage_equipment": "Process Gas and Liquid Handling Purification and Storage Equipment",
+   "process_heating_cooling_and_drying_equipment": "Process Heating Cooling and Drying Equipment",
+   "religious_equipment": "Religious Equipment",
+   "residential_equipment": "Residential Equipment",
+   "security_equipment": "Security Equipment",
+   "vehicle_and_pedestrian_equipment": "Vehicle and Pedestrian Equipment",
+   "veterinary_equipment": "Veterinary Equipment",
+   "water_and_wastewater_equipment": "Water and Wastewater Equipment"
+  },
+  "urlKey": "equipment"
+ },
+ "equipment_rental": {
+  "label": "Equipment Rental",
+  "specialties": {},
+  "urlKey": "equipment-rental"
+ },
+ "escalators_and_moving_walks": {
+  "label": "Escalators and Moving Walks",
+  "specialties": {
+   "escalators": "Escalators",
+   "moving_ramps": "Moving Ramps",
+   "moving_walks": "Moving Walks"
+  },
+  "urlKey": "escalators-and-moving-walks"
+ },
+ "exterior_insulation_and_finish_systems_eifs": {
+  "label": "Exterior Insulation and Finish Systems Eifs",
+  "specialties": {
+   "direct_applied_finish_systems": "Direct Applied Finish Systems",
+   "polymer_based_exterior_insulation_and_finish_system": "Polymer Based Exterior Insulation and Finish System",
+   "polymer_modified_exterior_insulation_and_finish_system": "Polymer Modified Exterior Insulation and Finish System",
+   "water_drainage_exterior_insulation_and_finish_system": "Water Drainage Exterior Insulation and Finish System"
+  },
+  "urlKey": "exterior-insulation-and-finish-systems-eifs"
+ },
+ "exterior_specialties": {
+  "label": "Exterior Specialties",
+  "specialties": {
+   "exterior_protection": "Exterior Protection",
+   "fabricated_bridges": "Fabricated Bridges",
+   "flagpoles": "Flagpoles",
+   "flags_and_banners": "Flags and Banners",
+   "grilles_and_screens": "Grilles and Screens",
+   "manufactured_exterior_specialties": "Manufactured Exterior Specialties",
+   "manufactured_site_specialties": "Manufactured Site Specialties",
+   "pest_control_devices": "Pest Control Devices",
+   "protective_covers": "Protective Covers",
+   "scales": "Scales",
+   "screening_devices": "Screening Devices",
+   "security_mirrors_and_domes": "Security Mirrors and Domes",
+   "site_furnishings": "Site Furnishings"
+  },
+  "urlKey": "exterior-specialties"
+ },
+ "faced_panels": {
+  "label": "Faced Panels",
+  "specialties": {
+   "aggregate_coated_panels": "Aggregate Coated Panels",
+   "ceramic_tile_faced_panels": "Ceramic Tile Faced Panels",
+   "fabricated_faced_panel_assemblies": "Fabricated Faced Panel Assemblies",
+   "glass_fiber_reinforced_cementitious_panels": "Glass Fiber Reinforced Cementitious Panels",
+   "metal_faced_panels": "Metal Faced Panels",
+   "mineral_fiber_reinforced_cementitious_panels": "Mineral Fiber Reinforced Cementitious Panels",
+   "porcelain_enameled_faced_panels": "Porcelain Enameled Faced Panels",
+   "tile_faced_panels": "Tile Faced Panels"
+  },
+  "urlKey": "faced-panels"
+ },
+ "fences_and_gates": {
+  "label": "Fences and Gates",
+  "specialties": {
+   "cattle_guards": "Cattle Guards",
+   "chain_link_fences_and_gates": "Chain Link Fences and Gates",
+   "composite_fences_and_gates": "Composite Fences and Gates",
+   "decorative_metal_fences_and_gates": "Decorative Metal Fences and Gates",
+   "expanded_metal_fences_and_gates": "Expanded Metal Fences and Gates",
+   "gate_operators": "Gate Operators",
+   "plastic_fences_and_gates": "Plastic Fences and Gates",
+   "welded_wire_fences_and_gates": "Welded Wire Fences and Gates",
+   "wild_life_deterrent_fence": "Wild Life Deterrent Fence",
+   "wire_fences_and_gates": "Wire Fences and Gates",
+   "wood_fences_and_gates": "Wood Fences and Gates"
+  },
+  "urlKey": "fences-and-gates"
+ },
+ "finish_carpentry": {
+  "label": "Finish Carpentry",
+  "specialties": {
+   "architectural_wood_casework": "Architectural Wood Casework",
+   "ornamental_woodwork": "Ornamental Woodwork",
+   "wood_paneling": "Wood Paneling",
+   "wood_screens_and_shutters": "Wood Screens and Shutters",
+   "wood_stairs_and_railings": "Wood Stairs and Railings",
+   "wood_trim": "Wood Trim"
+  },
+  "urlKey": "finish-carpentry"
+ },
+ "fire_and_smoke_protection": {
+  "label": "Fire and Smoke Protection",
+  "specialties": {
+   "applied_fire_protection": "Applied Fire Protection",
+   "board_fire_protection": "Board Fire Protection",
+   "firestopping": "Firestopping",
+   "smoke_containment_barriers": "Smoke Containment Barriers",
+   "smoke_seals": "Smoke Seals"
+  },
+  "urlKey": "fire-and-smoke-protection"
+ },
+ "fire_suppression": {
+  "label": "Fire Suppression",
+  "specialties": {
+   "fire_extinguishing_systems": "Fire Extinguishing Systems",
+   "fire_pumps": "Fire Pumps",
+   "fire_suppression_systems_insulation": "Fire Suppression Systems Insulation",
+   "fire_suppression_water_storage": "Fire Suppression Water Storage",
+   "instrumentation_and_control_for_fire_suppression_system": "Instrumentation and Control For Fire Suppression System",
+   "water_based_fire_suppression_systems": "Water Based Fire Suppression Systems"
+  },
+  "urlKey": "fire-suppression"
+ },
+ "fireplaces_and_stoves": {
+  "label": "Fireplaces and Stoves",
+  "specialties": {
+   "fireplace_specialties": "Fireplace Specialties",
+   "manufactured_fireplaces": "Manufactured Fireplaces",
+   "stoves": "Stoves"
+  },
+  "urlKey": "fireplaces-and-stoves"
+ },
+ "flashing_and_trim": {
+  "label": "Flashing and Trim",
+  "specialties": {
+   "flexible_flashing": "Flexible Flashing",
+   "sheet_metal_flashing_and_trim": "Sheet Metal Flashing and Trim"
+  },
+  "urlKey": "flashing-and-trim"
+ },
+ "flooring": {
+  "label": "Flooring",
+  "specialties": {
+   "access_flooring": "Access Flooring",
+   "carpeting": "Carpeting",
+   "flooring_treatment": "Flooring Treatment",
+   "fluid_applied_flooring": "Fluid Applied Flooring",
+   "masonry_flooring": "Masonry Flooring",
+   "resilient_flooring": "Resilient Flooring",
+   "specialty_flooring": "Specialty Flooring",
+   "terrazzo_flooring": "Terrazzo Flooring",
+   "wood_flooring": "Wood Flooring"
+  },
+  "urlKey": "flooring"
+ },
+ "furnishings": {
+  "label": "Furnishings",
+  "specialties": {
+   "art": "Art",
+   "furniture": "Furniture",
+   "furniture_accessories": "Furniture Accessories",
+   "manufactured_casework": "Manufactured Casework",
+   "multiple_seating": "Multiple Seating",
+   "other_furnishings": "Other Furnishings",
+   "window_treatments": "Window Treatments"
+  },
+  "urlKey": "furnishings"
+ },
+ "glass_and_glazing": {
+  "label": "Glass and Glazing",
+  "specialties": {
+   "glass_glazing": "Glass Glazing",
+   "glazing_accessories": "Glazing Accessories",
+   "glazing_surface_films": "Glazing Surface Films",
+   "mirrors": "Mirrors",
+   "plastic_glazing": "Plastic Glazing",
+   "special_function_glazing": "Special Function Glazing"
+  },
+  "urlKey": "glass-and-glazing"
+ },
+ "guideways_railways": {
+  "label": "Guideways Railways",
+  "specialties": {
+   "cable_transportation": "Cable Transportation",
+   "funiculars": "Funiculars",
+   "monorails": "Monorails",
+   "rail_tracks": "Rail Tracks"
+  },
+  "urlKey": "guideways-railways"
+ },
+ "heating_ventilating_and_air_conditioning_hvac": {
+  "label": "Heating Ventilating and Air Conditioning HVAC",
+  "specialties": {
+   "facility_fuel_systems": "Facility Fuel Systems",
+   "hvac_air_distribution_system_cleaning": "HVAC Air Distribution System Cleaning",
+   "hvac_general": "HVAC General",
+   "instrumentation_and_control_for_hvac": "Instrumentation and Control For HVAC"
+  },
+  "urlKey": "hvac"
+ },
+ "information_specialties": {
+  "label": "Information Specialties",
+  "specialties": {
+   "directories": "Directories",
+   "display_cases": "Display Cases",
+   "informational_kiosks": "Informational Kiosks",
+   "signage": "Signage",
+   "telephone_specialties": "Telephone Specialties",
+   "visual_display_units": "Visual Display Units"
+  },
+  "urlKey": "information-specialties"
+ },
+ "integrated_automation_systems_for_communications": {
+  "label": "Integrated Automation Systems For Communications",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-communications"
+ },
+ "integrated_automation_systems_for_conveying_equipment": {
+  "label": "Integrated Automation Systems For Conveying Equipment",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-conveying-equipment"
+ },
+ "integrated_automation_systems_for_electrical": {
+  "label": "Integrated Automation Systems For Electrical",
+  "specialties": {
+   "integrated_automation_battery_monitors": "Integrated Automation Battery Monitors",
+   "integrated_automation_current_sensors": "Integrated Automation Current Sensors",
+   "integrated_automation_kw_transducers": "Integrated Automation Kw Transducers",
+   "integrated_automation_lighting_relays": "Integrated Automation Lighting Relays",
+   "integrated_automation_power_meters": "Integrated Automation Power Meters",
+   "integrated_automation_ups_monitors": "Integrated Automation Ups Monitors"
+  },
+  "urlKey": "integrated-automation-systems-for-electrical"
+ },
+ "integrated_automation_systems_for_electronic_safety": {
+  "label": "Integrated Automation Systems For Electronic Safety",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-electronic-safety"
+ },
+ "integrated_automation_systems_for_electronic_security": {
+  "label": "Integrated Automation Systems For Electronic Security",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-electronic-security"
+ },
+ "integrated_automation_systems_for_facility_equipment": {
+  "label": "Integrated Automation Systems For Facility Equipment",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-facility-equipment"
+ },
+ "integrated_automation_systems_for_fire_suppression": {
+  "label": "Integrated Automation Systems For Fire Suppression",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-fire-suppression"
+ },
+ "integrated_automation_systems_for_hvac": {
+  "label": "Integrated Automation Systems For HVAC",
+  "specialties": {
+   "integrated_automation_actuators_and_operators": "Integrated Automation Actuators and Operators",
+   "integrated_automation_compressed_air_supply": "Integrated Automation Compressed Air Supply",
+   "integrated_automation_control_dampers": "Integrated Automation Control Dampers",
+   "integrated_automation_control_valves": "Integrated Automation Control Valves",
+   "integrated_automation_sensors_and_transmitters": "Integrated Automation Sensors and Transmitters"
+  },
+  "urlKey": "integrated-automation-systems-for-hvac"
+ },
+ "integrated_automation_systems_for_network_equipment": {
+  "label": "Integrated Automation Systems For Network Equipment",
+  "specialties": {
+   "integrated_automation_control_and_monitoring_network": "Integrated Automation Control and Monitoring Network",
+   "integrated_automation_local_control_units": "Integrated Automation Local Control Units",
+   "integrated_automation_network_devices": "Integrated Automation Network Devices",
+   "integrated_automation_network_gateways": "Integrated Automation Network Gateways",
+   "integrated_automation_software": "Integrated Automation Software"
+  },
+  "urlKey": "integrated-automation-systems-for-network-equipment"
+ },
+ "integrated_automation_systems_for_plumbing": {
+  "label": "Integrated Automation Systems For Plumbing",
+  "specialties": {},
+  "urlKey": "integrated-automation-systems-for-plumbing"
+ },
+ "integrated_construction": {
+  "label": "Integrated Construction",
+  "specialties": {
+   "building_modules_and_components": "Building Modules and Components",
+   "facility_protection": "Facility Protection",
+   "modular_mezzanines": "Modular Mezzanines",
+   "radiation_protection": "Radiation Protection",
+   "sound_vibration_and_seismic_control": "Sound Vibration and Seismic Control"
+  },
+  "urlKey": "integrated-construction"
+ },
+ "interior_specialties": {
+  "label": "Interior Specialties",
+  "specialties": {
+   "compartments_and_cubicles": "Compartments and Cubicles",
+   "partitions": "Partitions",
+   "service_walls": "Service Walls",
+   "toilet_bath_and_laundry_accessories": "Toilet Bath and Laundry Accessories",
+   "wall_and_door_protection": "Wall and Door Protection"
+  },
+  "urlKey": "interior-specialties"
+ },
+ "joint_protection": {
+  "label": "Joint Protection",
+  "specialties": {
+   "expansion_control": "Expansion Control",
+   "joint_sealants": "Joint Sealants",
+   "preformed_joint_seals": "Preformed Joint Seals"
+  },
+  "urlKey": "joint-protection"
+ },
+ "landscaping": {
+  "label": "Landscaping",
+  "specialties": {
+   "exterior_planting_support_structures": "Exterior Planting Support Structures",
+   "irrigation": "Irrigation",
+   "planting_accessories": "Planting Accessories",
+   "planting_preparation": "Planting Preparation",
+   "plants": "Plants",
+   "transplanting": "Transplanting",
+   "turf_and_grasses": "Turf and Grasses",
+   "wetlands": "Wetlands"
+  },
+  "urlKey": "landscaping"
+ },
+ "legal": {
+  "label": "Legal",
+  "specialties": {},
+  "urlKey": "legal"
+ },
+ "lifts": {
+  "label": "Lifts",
+  "specialties": {
+   "material_lifts": "Material Lifts",
+   "people_lifts": "People Lifts",
+   "platform_lifts": "Platform Lifts",
+   "sidewalk_lifts": "Sidewalk Lifts",
+   "vehicle_lifts": "Vehicle Lifts",
+   "wheelchair_lifts": "Wheelchair Lifts"
+  },
+  "urlKey": "lifts"
+ },
+ "louvers": {
+  "label": "Louvers",
+  "specialties": {
+   "door_louvers": "Door Louvers",
+   "fixed_louvers": "Fixed Louvers",
+   "louvered_equipment_enclosures": "Louvered Equipment Enclosures",
+   "motorized_wall_louvers": "Motorized Wall Louvers",
+   "operable_wall_louvers": "Operable Wall Louvers"
+  },
+  "urlKey": "louvers"
+ },
+ "marine_construction_and_equipment": {
+  "label": "Marine Construction and Equipment",
+  "specialties": {
+   "floating_construction": "Floating Construction",
+   "marine_specialties": "Marine Specialties",
+   "offshore_platform_construction": "Offshore Platform Construction",
+   "underwater_construction": "Underwater Construction"
+  },
+  "urlKey": "marine-construction-and-equipment"
+ },
+ "marine_signaling_and_control_equipment": {
+  "label": "Marine Signaling and Control Equipment",
+  "specialties": {
+   "marine_control_equipment": "Marine Control Equipment",
+   "marine_navigation_equipment": "Marine Navigation Equipment",
+   "marine_signaling_equipment": "Marine Signaling Equipment"
+  },
+  "urlKey": "marine-signaling-and-control-equipment"
+ },
+ "masonry": {
+  "label": "Masonry",
+  "specialties": {
+   "chemical_corrosion_resistant_masonry": "Chemical Corrosion Resistant Masonry",
+   "manufactured_masonry": "Manufactured Masonry",
+   "refractory_masonry": "Refractory Masonry",
+   "stone_assemblies": "Stone Assemblies",
+   "unit_masonry": "Unit Masonry"
+  },
+  "urlKey": "masonry"
+ },
+ "metals": {
+  "label": "Metals",
+  "specialties": {
+   "metal_fabrications": "Metal Fabrications",
+   "metal_support_assemblies": "Metal Support Assemblies"
+  },
+  "urlKey": "metals"
+ },
+ "other_conveying_equipment": {
+  "label": "Other Conveying Equipment",
+  "specialties": {
+   "facility_chutes": "Facility Chutes",
+   "pneumatic_tube_systems": "Pneumatic Tube Systems",
+   "slide_pole_systems": "Slide Pole Systems"
+  },
+  "urlKey": "other-conveying-equipment"
+ },
+ "painting_and_coatings": {
+  "label": "Painting and Coatings",
+  "specialties": {
+   "decorative_finishing": "Decorative Finishing",
+   "high_performance_coatings": "High Performance Coatings",
+   "painting": "Painting",
+   "special_coatings": "Special Coatings",
+   "staining_and_transparent_finishing": "Staining and Transparent Finishing"
+  },
+  "urlKey": "painting-and-coatings"
+ },
+ "paving_and_surfacing": {
+  "label": "Paving and Surfacing",
+  "specialties": {
+   "aggregate_surfacing": "Aggregate Surfacing",
+   "athletic_and_recreational_surfacing": "Athletic and Recreational Surfacing",
+   "base_courses": "Base Courses",
+   "concrete_paving": "Concrete Paving",
+   "flexible_paving": "Flexible Paving",
+   "paving_specialties": "Paving Specialties",
+   "unit_paving": "Unit Paving"
+  },
+  "urlKey": "paving-and-surfacing"
+ },
+ "plaster_and_gypsum_board": {
+  "label": "Plaster and Gypsum Board",
+  "specialties": {
+   "backing_boards_and_underlayments": "Backing Boards and Underlayments",
+   "cement_plastering": "Cement Plastering",
+   "gypsum_board": "Gypsum Board",
+   "gypsum_plastering": "Gypsum Plastering",
+   "other_plastering": "Other Plastering",
+   "plaster_and_gypsum_board_assemblies": "Plaster and Gypsum Board Assemblies",
+   "plaster_fabrications": "Plaster Fabrications",
+   "supports_for_plaster_and_gypsum_board": "Supports For Plaster and Gypsum Board",
+   "veneer_plastering": "Veneer Plastering"
+  },
+  "urlKey": "plaster-and-gypsum-board"
+ },
+ "plastic_composite_fabrications": {
+  "label": "Plastic Composite Fabrications",
+  "specialties": {
+   "cast_polymer_fabrications": "Cast Polymer Fabrications",
+   "custom_ornamental_simulated_woodwork": "Custom Ornamental Simulated Woodwork",
+   "plastic_composite_paneling": "Plastic Composite Paneling",
+   "plastic_composite_railings": "Plastic Composite Railings",
+   "plastic_composite_trim": "Plastic Composite Trim",
+   "plastic_foam_fabrications": "Plastic Foam Fabrications"
+  },
+  "urlKey": "plastic-composite-fabrications"
+ },
+ "plumbing": {
+  "label": "Plumbing",
+  "specialties": {
+   "instrumentation_and_control_for_plumbing": "Instrumentation and Control For Plumbing",
+   "plumbing_general": "Plumbing General",
+   "plumbing_utilities_distribution": "Plumbing Utilities Distribution",
+   "pool_and_fountain_plumbing_systems": "Pool and Fountain Plumbing Systems"
+  },
+  "urlKey": "plumbing"
+ },
+ "process_piping": {
+  "label": "Process Piping",
+  "specialties": {
+   "chemical_waste_systems": "Chemical Waste Systems",
+   "combustion_system_gas_piping": "Combustion System Gas Piping",
+   "compressed_air_systems": "Compressed Air Systems",
+   "instrumentation_and_control_for_process_systems": "Instrumentation and Control For Process Systems",
+   "liquid_acids_and_bases_piping": "Liquid Acids and Bases Piping",
+   "liquid_fuel_process_piping": "Liquid Fuel Process Piping",
+   "liquid_polymer_piping": "Liquid Polymer Piping",
+   "medical_specialty_and_high_purity_gases_systems": "Medical Specialty and High Purity Gases Systems",
+   "petroleum_products_piping": "Petroleum Products Piping",
+   "process_piping_system_protection": "Process Piping System Protection",
+   "processed_water_systems": "Processed Water Systems",
+   "solid_and_mixed_materials_piping_and_chutes": "Solid and Mixed Materials Piping and Chutes",
+   "specialty_liquid_chemicals_piping": "Specialty Liquid Chemicals Piping",
+   "steam_process_piping": "Steam Process Piping",
+   "vacuum_systems": "Vacuum Systems",
+   "welding_and_cutting_gases_piping": "Welding and Cutting Gases Piping"
+  },
+  "urlKey": "process-piping"
+ },
+ "project_management_and_coordination": {
+  "label": "Project Management and Coordination",
+  "specialties": {
+   "construction_scheduling": "Construction Scheduling",
+   "design_coordination_services": "Design Coordination Services",
+   "general_construction_management": "General Construction Management",
+   "value_analysis_engineering": "Value Analysis Engineering"
+  },
+  "urlKey": "project-management-and-coordination"
+ },
+ "reinforcement": {
+  "label": "Reinforcement",
+  "specialties": {
+   "composite_reinforcing": "Composite Reinforcing",
+   "fabric_and_grid_reinforcing": "Fabric and Grid Reinforcing",
+   "fibrous_reinforcing": "Fibrous Reinforcing",
+   "reinforcement_bars": "Reinforcement Bars",
+   "stressed_tendon_reinforcing": "Stressed Tendon Reinforcing"
+  },
+  "urlKey": "reinforcement"
+ },
+ "retaining_walls": {
+  "label": "Retaining Walls",
+  "specialties": {
+   "cast_in_place_concrete_retaining_walls": "Cast In Place Concrete Retaining Walls",
+   "gabion_retaining_walls": "Gabion Retaining Walls",
+   "metal_crib_retaining_walls": "Metal Crib Retaining Walls",
+   "precast_concrete_retaining_walls": "Precast Concrete Retaining Walls",
+   "reinforced_soil_retaining_walls": "Reinforced Soil Retaining Walls",
+   "segmental_retaining_walls": "Segmental Retaining Walls",
+   "soldier_beam_retaining_walls": "Soldier Beam Retaining Walls",
+   "stone_retaining_walls": "Stone Retaining Walls",
+   "timber_retaining_walls": "Timber Retaining Walls",
+   "unit_masonry_retaining_walls": "Unit Masonry Retaining Walls"
+  },
+  "urlKey": "retaining-walls"
+ },
+ "roof_windows_and_skylights": {
+  "label": "Roof Windows and Skylights",
+  "specialties": {
+   "roof_windows": "Roof Windows",
+   "unit_skylights": "Unit Skylights"
+  },
+  "urlKey": "roof-windows-and-skylights"
+ },
+ "roofing": {
+  "label": "Roofing",
+  "specialties": {
+   "canvas_roofing": "Canvas Roofing",
+   "membrane_roofing": "Membrane Roofing",
+   "natural_roof_coverings": "Natural Roof Coverings",
+   "roof_accessories": "Roof Accessories",
+   "roof_and_deck_insulation": "Roof and Deck Insulation",
+   "roof_panels": "Roof Panels",
+   "roof_pavers": "Roof Pavers",
+   "roof_specialties": "Roof Specialties",
+   "roof_tiles": "Roof Tiles",
+   "sheet_metal_roofing": "Sheet Metal Roofing",
+   "shingles_and_shakes": "Shingles and Shakes"
+  },
+  "urlKey": "roofing"
+ },
+ "rough_carpentry": {
+  "label": "Rough Carpentry",
+  "specialties": {
+   "decking": "Decking",
+   "glued_laminated_construction": "Glued Laminated Construction",
+   "heavy_timber_construction": "Heavy Timber Construction",
+   "sheathing": "Sheathing",
+   "shop_fabricated_structural_wood": "Shop Fabricated Structural Wood",
+   "structural_panels": "Structural Panels",
+   "treated_wood_foundations": "Treated Wood Foundations",
+   "wood_framing": "Wood Framing"
+  },
+  "urlKey": "rough-carpentry"
+ },
+ "safety_specialties": {
+  "label": "Safety Specialties",
+  "specialties": {
+   "emergency_access_and_information_cabinets": "Emergency Access and Information Cabinets",
+   "emergency_aid_specialties": "Emergency Aid Specialties",
+   "fire_protection_specialties": "Fire Protection Specialties",
+   "photoluminescent_exit_specialties": "Photoluminescent Exit Specialties"
+  },
+  "urlKey": "safety-specialties"
+ },
+ "scaffolding": {
+  "label": "Scaffolding",
+  "specialties": {
+   "elevating_platforms": "Elevating Platforms",
+   "powered_scaffolding": "Powered Scaffolding",
+   "rope_climbers": "Rope Climbers",
+   "suspended_scaffolding": "Suspended Scaffolding"
+  },
+  "urlKey": "scaffolding"
+ },
+ "sheet_metal_wall_cladding": {
+  "label": "Sheet Metal Wall Cladding",
+  "specialties": {
+   "batten_seam_sheet_metal_wall_cladding": "Batten Seam Sheet Metal Wall Cladding",
+   "flat_seam_sheet_metal_wall_cladding": "Flat Seam Sheet Metal Wall Cladding",
+   "standing_seam_sheet_metal_wall_cladding": "Standing Seam Sheet Metal Wall Cladding"
+  },
+  "urlKey": "sheet-metal-wall-cladding"
+ },
+ "siding": {
+  "label": "Siding",
+  "specialties": {
+   "aluminum_siding": "Aluminum Siding",
+   "composition_siding": "Composition Siding",
+   "fabricated_panel_assemblies_with_siding": "Fabricated Panel Assemblies With Siding",
+   "fiber_cement_siding": "Fiber Cement Siding",
+   "hardboard_siding": "Hardboard Siding",
+   "plastic_siding": "Plastic Siding",
+   "plywood_siding": "Plywood Siding",
+   "steel_siding": "Steel Siding",
+   "wood_shake_siding": "Wood Shake Siding",
+   "wood_shingle_siding": "Wood Shingle Siding",
+   "wood_siding": "Wood Siding",
+   "zinc_siding": "Zinc Siding"
+  },
+  "urlKey": "siding"
+ },
+ "signaling_and_control_equipment_for_dams": {
+  "label": "Signaling and Control Equipment For Dams",
+  "specialties": {
+   "control_equipment_for_dams": "Control Equipment For Dams",
+   "signaling_equipment_for_dams": "Signaling Equipment For Dams"
+  },
+  "urlKey": "signaling-and-control-equipment-for-dams"
+ },
+ "site_controls": {
+  "label": "Site Controls",
+  "specialties": {
+   "site_watering_for_dust_control": "Site Watering For Dust Control",
+   "snow_control": "Snow Control",
+   "temporary_environmental_controls": "Temporary Environmental Controls",
+   "temporary_erosion_and_sediment_control": "Temporary Erosion and Sediment Control",
+   "temporary_pest_control": "Temporary Pest Control",
+   "temporary_security": "Temporary Security",
+   "temporary_storm_water_pollution_control": "Temporary Storm Water Pollution Control",
+   "temporary_vegetation_control": "Temporary Vegetation Control",
+   "traffic_control": "Traffic Control"
+  },
+  "urlKey": "site-controls"
+ },
+ "special_facility_components": {
+  "label": "Special Facility Components",
+  "specialties": {
+   "amusement_park_structures_and_equipment": "Amusement Park Structures and Equipment",
+   "aquariums": "Aquariums",
+   "fountains": "Fountains",
+   "ice_rinks": "Ice Rinks",
+   "kennels_and_animal_shelters": "Kennels and Animal Shelters",
+   "specialty_element_construction": "Specialty Element Construction",
+   "swimming_pools": "Swimming Pools",
+   "tubs_and_pools": "Tubs and Pools"
+  },
+  "urlKey": "special-facility-components"
+ },
+ "special_instrumentation": {
+  "label": "Special Instrumentation",
+  "specialties": {
+   "meteorological_instrumentation": "Meteorological Instrumentation",
+   "seismic_instrumentation": "Seismic Instrumentation",
+   "stress_instrumentation": "Stress Instrumentation"
+  },
+  "urlKey": "special-instrumentation"
+ },
+ "special_purpose_rooms": {
+  "label": "Special Purpose Rooms",
+  "specialties": {
+   "athletic_and_recreational_special_construction": "Athletic and Recreational Special Construction",
+   "controlled_environment_rooms": "Controlled Environment Rooms",
+   "fabricated_rooms": "Fabricated Rooms",
+   "office_shelters_and_booths": "Office Shelters and Booths",
+   "planetariums": "Planetariums",
+   "special_activity_rooms": "Special Activity Rooms",
+   "vaults": "Vaults"
+  },
+  "urlKey": "special-purpose-rooms"
+ },
+ "special_structures": {
+  "label": "Special Structures",
+  "specialties": {
+   "fabric_structures": "Fabric Structures",
+   "fabricated_engineered_structures": "Fabricated Engineered Structures",
+   "geodesic_structures": "Geodesic Structures",
+   "rammed_earth_construction": "Rammed Earth Construction",
+   "space_frames": "Space Frames",
+   "towers": "Towers"
+  },
+  "urlKey": "special-structures"
+ },
+ "specialized_systems": {
+  "label": "Specialized Systems",
+  "specialties": {
+   "detention_security_systems": "Detention Security Systems",
+   "information_management_and_presentation": "Information Management and Presentation"
+  },
+  "urlKey": "specialized-systems"
+ },
+ "specialty_doors_and_frames": {
+  "label": "Specialty Doors and Frames",
+  "specialties": {
+   "access_doors_and_panels": "Access Doors and Panels",
+   "closet_doors": "Closet Doors",
+   "coiling_doors_and_grilles": "Coiling Doors and Grilles",
+   "folding_doors_and_grills": "Folding Doors and Grills",
+   "panel_doors": "Panel Doors",
+   "pressure_resistant_doors": "Pressure Resistant Doors",
+   "sliding_glass_doors": "Sliding Glass Doors",
+   "special_function_doors": "Special Function Doors",
+   "traffic_doors": "Traffic Doors"
+  },
+  "urlKey": "specialty-doors-and-frames"
+ },
+ "storage_specialties": {
+  "label": "Storage Specialties",
+  "specialties": {
+   "lockers": "Lockers",
+   "postal_specialties": "Postal Specialties",
+   "storage_assemblies": "Storage Assemblies",
+   "wardrobe_and_closet_specialties": "Wardrobe and Closet Specialties"
+  },
+  "urlKey": "storage-specialties"
+ },
+ "structural_steel": {
+  "label": "Structural Steel",
+  "specialties": {
+   "structural_steel_framing_erection": "Structural Steel Framing Erection",
+   "structural_steel_framing_fabrication": "Structural Steel Framing Fabrication"
+  },
+  "urlKey": "structural-steel"
+ },
+ "structure_and_building_moving_relocation": {
+  "label": "Structure and Building Moving Relocation",
+  "specialties": {},
+  "urlKey": "structure-and-building-moving-relocation"
+ },
+ "surveying": {
+  "label": "Surveying",
+  "specialties": {},
+  "urlKey": "surveying"
+ },
+ "temporary_construction_facilities_and_identification": {
+  "label": "Temporary Construction Facilities and Identification",
+  "specialties": {
+   "field_offices_and_sheds": "Field Offices and Sheds",
+   "first_aid_facilities": "First Aid Facilities",
+   "sanitary_facilities": "Sanitary Facilities",
+   "temporary_signage": "Temporary Signage"
+  },
+  "urlKey": "temporary-construction-facilities-and-identification"
+ },
+ "temporary_utilities": {
+  "label": "Temporary Utilities",
+  "specialties": {
+   "temporary_electricity": "Temporary Electricity",
+   "temporary_fire_protection": "Temporary Fire Protection",
+   "temporary_fuel_oil": "Temporary Fuel Oil",
+   "temporary_heating_cooling_and_ventilating": "Temporary Heating Cooling and Ventilating",
+   "temporary_lighting": "Temporary Lighting",
+   "temporary_natural_gas": "Temporary Natural Gas",
+   "temporary_telecommunications": "Temporary Telecommunications",
+   "temporary_water": "Temporary Water"
+  },
+  "urlKey": "temporary-utilities"
+ },
+ "thermal_insulation": {
+  "label": "Thermal Insulation",
+  "specialties": {
+   "blanket_insulation": "Blanket Insulation",
+   "blown_insulation": "Blown Insulation",
+   "board_insulation": "Board Insulation",
+   "fluid_applied_insulative_coating": "Fluid Applied Insulative Coating",
+   "foamed_in_place_insulation": "Foamed In Place Insulation",
+   "loose_fill_insulation": "Loose Fill Insulation",
+   "reflective_insulation": "Reflective Insulation",
+   "sprayed_insulation": "Sprayed Insulation"
+  },
+  "urlKey": "thermal-insulation"
+ },
+ "tile": {
+  "label": "Tile",
+  "specialties": {
+   "brick_tiling": "Brick Tiling",
+   "ceramic_tiling": "Ceramic Tiling",
+   "concrete_tiling": "Concrete Tiling",
+   "glass_mosaic_tiling": "Glass Mosaic Tiling",
+   "metal_tiling": "Metal Tiling",
+   "paver_tiling": "Paver Tiling",
+   "plastic_tiling": "Plastic Tiling",
+   "quarry_tiling": "Quarry Tiling",
+   "stone_tiling": "Stone Tiling"
+  },
+  "urlKey": "tile"
+ },
+ "translucent_wall_and_roof_assemblies": {
+  "label": "Translucent Wall and Roof Assemblies",
+  "specialties": {
+   "fiberglass_sandwich_panel_assemblies": "Fiberglass Sandwich Panel Assemblies",
+   "structured_polycarbonate_panel_assemblies": "Structured Polycarbonate Panel Assemblies"
+  },
+  "urlKey": "translucent-wall-and-roof-assemblies"
+ },
+ "transportation_construction_and_equipment": {
+  "label": "Transportation Construction and Equipment",
+  "specialties": {
+   "airfield_construction": "Airfield Construction",
+   "railway_construction": "Railway Construction",
+   "railway_equipment": "Railway Equipment",
+   "roadway_construction": "Roadway Construction",
+   "roadway_equipment": "Roadway Equipment",
+   "transportation_equipment": "Transportation Equipment",
+   "weighing_equipment": "Weighing Equipment"
+  },
+  "urlKey": "transportation-construction-and-equipment"
+ },
+ "transportation_fare_collection_equipment": {
+  "label": "Transportation Fare Collection Equipment",
+  "specialties": {
+   "passenger_fare_collection": "Passenger Fare Collection",
+   "vehicle_fare_collection": "Vehicle Fare Collection"
+  },
+  "urlKey": "transportation-fare-collection-equipment"
+ },
+ "transportation_signaling_and_control_equipment": {
+  "label": "Transportation Signaling and Control Equipment",
+  "specialties": {
+   "airfield_signaling_and_control_equipment": "Airfield Signaling and Control Equipment",
+   "bridge_signaling_and_control_equipment": "Bridge Signaling and Control Equipment",
+   "railway_signaling_and_control_equipment": "Railway Signaling and Control Equipment",
+   "roadway_signaling_and_control_equipment": "Roadway Signaling and Control Equipment"
+  },
+  "urlKey": "transportation-signaling-and-control-equipment"
+ },
+ "turntables": {
+  "label": "Turntables",
+  "specialties": {
+   "entertainment_turntables": "Entertainment Turntables",
+   "exhibit_turntables": "Exhibit Turntables",
+   "hospitality_turntables": "Hospitality Turntables",
+   "industrial_turntables": "Industrial Turntables"
+  },
+  "urlKey": "turntables"
+ },
+ "vapor_retarders": {
+  "label": "Vapor Retarders",
+  "specialties": {
+   "above_grade_vapor_retarders": "Above Grade Vapor Retarders",
+   "below_grade_gas_retarders": "Below Grade Gas Retarders",
+   "below_grade_vapor_retarders": "Below Grade Vapor Retarders"
+  },
+  "urlKey": "vapor-retarders"
+ },
+ "vehicles": {
+  "label": "Vehicles",
+  "specialties": {
+   "general_vehicles": "General Vehicles",
+   "rail_vehicles": "Rail Vehicles",
+   "trucks": "Trucks"
+  },
+  "urlKey": "vehicles"
+ },
+ "vents": {
+  "label": "Vents",
+  "specialties": {
+   "explosion_vents": "Explosion Vents",
+   "flood_vents": "Flood Vents",
+   "soffit_vents": "Soffit Vents",
+   "wall_vents": "Wall Vents"
+  },
+  "urlKey": "vents"
+ },
+ "video_and_photography": {
+  "label": "Video and Photography",
+  "specialties": {
+   "photography": "Photography",
+   "video_monitoring_and_documentation": "Video Monitoring and Documentation"
+  },
+  "urlKey": "video-and-photography"
+ },
+ "wall_finishes": {
+  "label": "Wall Finishes",
+  "specialties": {
+   "acoustic_treatment": "Acoustic Treatment",
+   "flexible_wood_sheets": "Flexible Wood Sheets",
+   "interior_wall_paneling": "Interior Wall Paneling",
+   "plastic_blocks": "Plastic Blocks",
+   "special_wall_surfacing": "Special Wall Surfacing",
+   "stone_facing": "Stone Facing",
+   "wall_carpeting": "Wall Carpeting",
+   "wall_coverings": "Wall Coverings"
+  },
+  "urlKey": "wall-finishes"
+ },
+ "wall_panels": {
+  "label": "Wall Panels",
+  "specialties": {
+   "cementitious_wall_panels": "Cementitious Wall Panels",
+   "composite_wall_panels": "Composite Wall Panels",
+   "fabricated_wall_panel_assemblies": "Fabricated Wall Panel Assemblies",
+   "metal_wall_panels": "Metal Wall Panels",
+   "plastic_wall_panels": "Plastic Wall Panels",
+   "soffit_panels": "Soffit Panels",
+   "terra_cotta_wall_panels": "Terra Cotta Wall Panels",
+   "tile_wall_panels": "Tile Wall Panels",
+   "wood_wall_panels": "Wood Wall Panels"
+  },
+  "urlKey": "wall-panels"
+ },
+ "wall_specialties": {
+  "label": "Wall Specialties",
+  "specialties": {},
+  "urlKey": "wall-specialties"
+ },
+ "waterproofing": {
+  "label": "Waterproofing",
+  "specialties": {
+   "bentonite_waterproofing": "Bentonite Waterproofing",
+   "built_up_bituminous_waterproofing": "Built Up Bituminous Waterproofing",
+   "cementitious_and_reactive_waterproofing": "Cementitious and Reactive Waterproofing",
+   "dampproofing": "Dampproofing",
+   "fluid_applied_waterproofing": "Fluid Applied Waterproofing",
+   "sheet_metal_waterproofing": "Sheet Metal Waterproofing",
+   "sheet_waterproofing": "Sheet Waterproofing",
+   "traffic_coatings": "Traffic Coatings",
+   "water_repellents": "Water Repellents"
+  },
+  "urlKey": "waterproofing"
+ },
+ "waterway_and_marine_construction_and_equipment": {
+  "label": "Waterway and Marine Construction and Equipment",
+  "specialties": {
+   "dredging": "Dredging",
+   "general_fabrications_for_waterways": "General Fabrications For Waterways",
+   "hydraulic_gates": "Hydraulic Gates"
+  },
+  "urlKey": "waterway-and-marine-construction-and-equipment"
+ },
+ "waterway_and_marine_signaling_and_control_equipment": {
+  "label": "Waterway and Marine Signaling and Control Equipment",
+  "specialties": {
+   "signaling_and_control_equipment_for_waterways": "Signaling and Control Equipment For Waterways"
+  },
+  "urlKey": "waterway-and-marine-signaling-and-control-equipment"
+ },
+ "waterway_construction_and_equipment": {
+  "label": "Waterway Construction and Equipment",
+  "specialties": {
+   "levees": "Levees",
+   "waterway_bank_protection": "Waterway Bank Protection",
+   "waterway_scour_protection": "Waterway Scour Protection",
+   "waterway_structures": "Waterway Structures"
+  },
+  "urlKey": "waterway-construction-and-equipment"
+ },
+ "weather_barriers": {
+  "label": "Weather Barriers",
+  "specialties": {},
+  "urlKey": "weather-barriers"
+ },
+ "window_wall_assemblies": {
+  "label": "Window Wall Assemblies",
+  "specialties": {},
+  "urlKey": "window-wall-assemblies"
+ },
+ "windows": {
+  "label": "Windows",
+  "specialties": {
+   "composite_windows": "Composite Windows",
+   "metal_windows": "Metal Windows",
+   "plastic_windows": "Plastic Windows",
+   "pressure_resistant_windows": "Pressure Resistant Windows",
+   "special_function_windows": "Special Function Windows",
+   "wood_windows": "Wood Windows"
+  },
+  "urlKey": "windows"
+ }
+}
