@@ -38,10 +38,6 @@ General contractors and construction managers, concrete, masonry, structural ste
 - Optional filters: **company type** (general contractor, specialty contractor, supplier...), **certifications** (MBE, WBE, DBE, SDVOSB, HUBZone, 8(a), union, prevailing wage...), only companies with a phone number, and whether to include out-of-state companies that serve your area.
 - **Maximum results**.
 
-## Pricing
-
-You pay per company returned, plus a small fee per run. Set a maximum results number or a spending limit and the run stops there.
-
 ## Data and privacy
 
 Only business information that companies publish about themselves in public directories. No personal names, no personal email addresses (only role mailboxes such as bids@ or info@), nothing behind a login.
@@ -50,3 +46,41 @@ Only business information that companies publish about themselves in public dire
 
 - A whole state for a big trade (electrical in California) can take 10 minutes or more; a ZIP radius is faster.
 - Run it on a schedule (weekly or monthly) to catch newly listed companies.
+
+## How much does it cost?
+
+**$4 per 1,000 companies** ($0.004 each), plus $0.005 per run. You pay only for companies returned.
+
+| You get | You pay |
+|---|---|
+| 100 companies | about $0.41 |
+| 1,000 companies | about $4.01 |
+| 5,000 companies | about $20.01 |
+
+Apify's free plan includes $5 of credit every month, which covers about 1,200 companies, so you can try it without paying anything. Set **Maximum results** or a spending limit and the run stops there.
+
+## FAQ
+
+**Is this a Procore Network scraper?** It reads the public Procore Network directory and the SBA small business search, then merges both into one list. You don't need a Procore account.
+
+**Can I find minority, woman or veteran owned subcontractors?** Yes. Use the Certifications filter (MBE, WBE, DBE, SDVOSB, HUBZone, 8(a)) to build a diversity bid list.
+
+**Can I get a list of general contractors in my state?** Yes. Pick the General contractors trade and your state. Ohio returns several hundred GCs with phone numbers.
+
+**Can I export contractor leads to Excel or a CRM?** Download as CSV, Excel or JSON, or send results to Google Sheets, HubSpot, Zapier or Make with Apify integrations.
+
+**How is this different from BuildingConnected, The Blue Book or ConstructConnect?** Those are subscriptions you search by hand. This gives you a downloadable list for your trades and area, and you pay only for the companies you get.
+
+## Use it from your own tools
+
+Run it from the Apify API (see the API tab), on a schedule, or from Zapier, Make, n8n, Google Sheets and Slack integrations. Each run's results stay in a dataset you can download as CSV, Excel, JSON or XML.
+
+## More B2B lead lists from the same developer
+
+Same pricing, same clean one-row-per-company format:
+
+- [US Manufacturer & Machine Shop Leads](https://apify.com/habes22/fabricator-finder): metal fabricators and machine shops by capability (laser, CNC, welding)
+- [Trucking Company & Carrier Leads (FMCSA)](https://apify.com/habes22/trucking-carrier-finder): trucking companies by cargo, fleet size and area, with safety data
+- [Medical Practice & Clinic Leads (NPI)](https://apify.com/habes22/medical-practice-leads): dental, medical and therapy practices by specialty
+- [Government Bids & RFPs (SAM.gov + State)](https://apify.com/habes22/gov-bids-finder): open federal, state and local bids for what you sell
+- [Commercial Property Owner Leads](https://apify.com/habes22/commercial-property-owner-leads): who owns offices, warehouses and other commercial buildings
