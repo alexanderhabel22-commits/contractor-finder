@@ -11,12 +11,16 @@ Find commercial contractors and subcontractors in any US state or around any ZIP
 
 ## What you get
 
-| company_name | company_types | matched_trades | phone | website | city | state | certifications |
-|---|---|---|---|---|---|---|---|
-| Example Steel Erectors LLC | specialty_contractor | structural_steel | (614) 555-0100 | examplesteel.com | Columbus | OH | union, small_business |
-| Example Builders Inc | general_contractor | general_contractor | (216) 555-0142 | examplebuilders.com | Cleveland | OH | sdvosb |
+The input form comes pre-filled with **structural steel, Ohio, 100 results**. Click Start and you get this kind of list in about 30 seconds, for about $0.41. These rows are from a test run on November 23, 2026:
 
-*(Illustrative rows.)* Each row also has street address, ZIP, latitude/longitude, distance from your ZIP, all trades the company lists, service areas, market sectors (commercial, healthcare, industrial...), federal bonding capacity, year founded, NAICS code, SAM.gov UEI and CAGE code where published, and links to every listing the company was found in.
+| Company | Phone | Website | City | State | Trades | Certifications |
+|---|---|---|---|---|---|---|
+| Arcline Services LLC | (740) 509-3566 | arclineservices.com | Caldwell | OH | structural_steel, miscellaneous_metals, concrete, fencing | small_business |
+| Benco Construction Services LLC | (513) 228-0222 | buildbenco.com | Lebanon | OH | structural_steel, doors_hardware, drywall_ceilings, waterproofing | small_business |
+| Fiedeldey Steel Fabricators, Inc. | (513) 353-3300 | fiedeldeysteel.com | Cincinnati | OH | structural_steel | |
+| Concept Industries | (701) 312-1134 | conceptbins.com | Akron | OH | structural_steel | |
+
+Each row also has street address, ZIP, latitude/longitude, distance from your ZIP, all trades the company lists, service areas, market sectors (commercial, healthcare, industrial...), federal bonding capacity, year founded, NAICS code, SAM.gov UEI and CAGE code where published, and links to every listing the company was found in.
 
 Typical results: structural steel in Ohio returns about 330 companies, general contractors within 40 miles of Cleveland about 400, electrical + HVAC + plumbing in Ohio and Indiana about 3,400. Nearly every row has a phone number.
 
@@ -84,3 +88,4 @@ Same pricing, same clean one-row-per-company format:
 - [Medical Practice & Clinic Leads (NPI)](https://apify.com/habes22/medical-practice-leads): dental, medical and therapy practices by specialty
 - [Government Bids & RFPs (SAM.gov + State)](https://apify.com/habes22/gov-bids-finder): open federal, state and local bids for what you sell
 - [Commercial Property Owner Leads](https://apify.com/habes22/commercial-property-owner-leads): who owns offices, warehouses and other commercial buildings
+- [Solar & Battery Installer Leads](https://apify.com/habes22/solar-installer-leads): US solar installers ranked by how many systems they really installed
