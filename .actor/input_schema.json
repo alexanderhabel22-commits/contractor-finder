@@ -328,7 +328,8 @@
             "description": "The most companies to return (and be charged for).",
             "default": 1000,
             "minimum": 1,
-            "maximum": 100000
+            "maximum": 100000,
+            "prefill": 100
         },
         "includeProcore": {
             "title": "Search Procore Network",
